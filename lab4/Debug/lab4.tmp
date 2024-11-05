@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\Debug\lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab4.map</FILE>
+  <FILE>lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>34</LINE></reset>
+  <irq0><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>68</LINE></irq0>
+  <timer1ovf><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>80</LINE></timer1ovf>
+  <INITIALISE_LCD><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>180</LINE></INITIALISE_LCD>
+  <loop><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>60</LINE></loop>
+  <halt><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>65</LINE></halt>
+  <decimal_conversion><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>246</LINE></decimal_conversion>
+  <positive_number><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>251</LINE></positive_number>
+  <divide><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>288</LINE></divide>
+  <display_digit><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>260</LINE></display_digit>
+  <check_tens_digit><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>265</LINE></check_tens_digit>
+  <display_tens_digit><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>274</LINE></display_tens_digit>
+  <display_ones_digit><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>278</LINE></display_ones_digit>
+  <divide_loop><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>292</LINE></divide_loop>
+  <divide_done><FILE>C:\Users\nsoo1\OneDrive\Documents\UniDocuments\COMP9032\Labs\lab4\lab4\lab4\main.asm</FILE><LINE>300</LINE></divide_done>
+ </LABELS>
+</ASSEMBLER_INFO>
